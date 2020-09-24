@@ -28,7 +28,6 @@ public class Profissional {
          // Objeto
          Profissional P=new Profissional("Programador", "Rangel");
          P.setDepartamento("Engenharia");
-         // Objeto
-         
+         // Fim teste         
      }
 }
