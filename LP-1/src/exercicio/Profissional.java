@@ -15,7 +15,7 @@ public class Profissional {
         this.nome = nome;
     }
     
-    //Métodos de acesso do tipo getters e setters
+    //MÃ©todos de acesso do tipo getters e setters
     public void setDepartamento(String departamento){
         this.departamento = departamento;
     }
@@ -28,6 +28,7 @@ public class Profissional {
          // Objeto
          Profissional P=new Profissional("Programador", "Rangel");
          P.setDepartamento("Engenharia");
-        System.out.println (P.getDepartamento());
-    }
+         // Objeto
+         
+     }
 }
