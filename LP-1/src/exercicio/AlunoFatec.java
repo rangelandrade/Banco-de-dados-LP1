@@ -66,7 +66,7 @@ public class AlunoFatec {
 		
 		AlunoFatec [] Alf = new AlunoFatec [5];
 		
-		Alf[0]=new AlunoFatec("Rangel", "Banco de Dados", 138625, "LP1", 8);
+		Alf[0]=new AlunoFatec("Rangel", "Banco de Dados", 138625, "LP1", (float) 8.0);
 		Alf[1]=new AlunoFatec("Marcelo", "Banco de Dados", 1378568, "LAB", 10);
 		Alf[2]=new AlunoFatec("Carlos", "ADS", 135886, "Matemática Discreta", 8);
 		Alf[3]=new AlunoFatec("Helen", "Banco de Dados", 125635, "Engenharia de Software", 9);
